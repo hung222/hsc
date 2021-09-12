@@ -7,3 +7,4 @@ echo "Hello Python Vietnam"
 sleep 10
 mkdir script
 mkdir script
+git push origin master

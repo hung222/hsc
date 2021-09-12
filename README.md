@@ -8,4 +8,4 @@ sleep 10
 mkdir script
 mkdir script
 git push origin master
-git add   .
+git add*

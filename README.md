@@ -9,3 +9,4 @@ mkdir script
 mkdir script
 git push origin master
 git add*
+git commit README.md -m "ducnc sua doi"

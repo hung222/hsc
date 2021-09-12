@@ -1,7 +1,9 @@
 Xin chao!
-Toi la Dũng
+Toi la an
 mkdir script
 vi script/script1.sh
 #!/bin/sh
 echo "Hello Python Vietnam"
 sleep 10
+mkdir script
+mkdir script

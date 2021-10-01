@@ -1,0 +1,17 @@
+{
+  "name": "tlw",
+  "version": "1.0.0",
+  "description": "tlw",
+  "main": "tn",
+  "scripts": {
+    "test": "ttt"
+  },
+  "keywords": [
+    "0"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
